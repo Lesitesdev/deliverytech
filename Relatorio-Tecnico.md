@@ -262,12 +262,8 @@ Como possiveis melhorias para as proximas versoes, destacam-se:
 - criar frontend para consumo da API
 - evoluir observabilidade com dashboards e metricas externas
 
-## 13. Evidencias Sugeridas para Entrega
 
-Para fortalecer a apresentacao do projeto, recomenda-se anexar:
 
-- print do Swagger funcionando
-- print do Actuator com `/health`
-- print do console H2
-- print dos testes executando
-- print dos logs com `traceId` e `spanId`
+
+
+
