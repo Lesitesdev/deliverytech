@@ -142,17 +142,6 @@ deliverytech
 └── pom.xml
 ```
 
-## Explicacao das Camadas
-
-- `controller`: recebe requisicoes HTTP e devolve respostas da API
-- `service`: concentra as regras de negocio
-- `repository`: faz o acesso ao banco de dados
-- `model`: representa as entidades do dominio
-- `dto`: organiza os dados de entrada e saida da API
-- `config`: guarda configuracoes do Spring, Swagger e seguranca
-- `security`: implementa JWT, autenticacao e autorizacao
-- `exception`: trata erros da aplicacao
-
 ## Principais Fluxos do Sistema
 
 ### 1. Registro e login
@@ -225,8 +214,6 @@ Perfis identificados no projeto:
 
 - `ROLE_ADMIN`
 - `ROLE_CLIENTE`
-- `ROLE_RESTAURANTE`
-- `ROLE_ENTREGADOR`
 
 Endpoints publicos principais:
 
