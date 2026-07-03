@@ -215,7 +215,7 @@ Cliente / Postman / Swagger
        Banco H2
 ```
 
-![alt text](image.png)
+![arquitetura](/src/imagem.png)
 
 ## Seguranca
 
